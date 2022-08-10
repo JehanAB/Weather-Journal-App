@@ -15,7 +15,6 @@ Weather Journal App - 3rd Project - Udacity - Front End Web Developer NanoDegree
 - [Deployment](#deployment)
 - [Usage](#usage)
 - [Built Using](#built_using)
-- [Contributing](../CONTRIBUTING.md)
 
 ## About <a name = "about"></a>
 
@@ -37,20 +36,20 @@ you need these packages to run the server successfully.
 - node server.js
   
 
-## 🔧 Running the tests <a name = "tests"></a>
+##  Running the tests <a name = "tests"></a>
 
 the testing functions are unfortunately not provided for this version. 
 
-## 🚀 Deployment <a name = "deployment"></a>
+##  Deployment <a name = "deployment"></a>
 
 the application has a server side so if you want to launch it on a live shared hosting make sure it is one that support backend server.
 
 
-## ⛏️ Built Using <a name = "built_using"></a>
+##  Built Using <a name = "built_using"></a>
 
 - [Vanilla js](https://www.javascript.com/) - programming language
 - [Express](https://expressjs.com/) - Server Framework
-- [Css] - css preprocessor
+-  Css - css preprocessor
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 
 
