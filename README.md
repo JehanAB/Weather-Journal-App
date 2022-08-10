@@ -5,7 +5,7 @@
 
 <p align="center"> 
 <strong> 
-Weather Journal App - 3red Project - Udacity - Front End Web Developer NanoDegree
+Weather Journal App - 3rd Project - Udacity - Front End Web Developer NanoDegree
 </strong>
 </p>
 
@@ -45,7 +45,7 @@ the testing functions are unfortunately not provided for this version.
 
 the application has a server side so if you want to launch it on a live shared hosting make sure it is one that support backend server.
 
-eg: the application will not work on shared hosting that runs the application from the public_html folder directly. Rather use a webhosting like digital ocan or netlify if you want a free host that supports the backend.
+
 ## ⛏️ Built Using <a name = "built_using"></a>
 
 - [Vanilla js](https://www.javascript.com/) - programming language
